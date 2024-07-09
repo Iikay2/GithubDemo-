@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GitHub DEMO/1.0.0": {
+        "runtime": {
+          "GitHub DEMO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GitHub DEMO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
